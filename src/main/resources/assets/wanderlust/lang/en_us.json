@@ -1,0 +1,13 @@
+{
+  "itemGroup.wanderlust": "Example Mod Tab",
+  "block.wanderlust.example_block": "Example Block",
+  "item.wanderlust.example_item": "Example Item",
+
+  "wanderlust.configuration.title": "Wanderlust Configs",
+  "wanderlust.configuration.section.wanderlust.common.toml": "Wanderlust Configs",
+  "wanderlust.configuration.section.wanderlust.common.toml.title": "Wanderlust Configs",
+  "wanderlust.configuration.items": "Item List",
+  "wanderlust.configuration.logDirtBlock": "Log Dirt Block",
+  "wanderlust.configuration.magicNumberIntroduction": "Magic Number Text",
+  "wanderlust.configuration.magicNumber": "Magic Number"
+}
